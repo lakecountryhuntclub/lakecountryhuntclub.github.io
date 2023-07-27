@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/jimbrig
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://docs.jimbrig.com
+  * I am jimbrig (https://keybase.io/jimbrig) on keybase.
+  * I have a public key ASCoziHA_csl80JLgnpV7D6sukh81C354Aw2CDS7sZkA5Qo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101dbd21a2db758030f17315f79123a36ef7035ba6dc127871794c2e682c2f9dc000a",
+      "host": "keybase.io",
+      "kid": "0120a8ce21c0fdcb25f3424b827a55ec3eacba487cd42df9e00c360834bbb19900e50a",
+      "uid": "5b605e68aa946827678da008644a3b19",
+      "username": "jimbrig"
+    },
+    "merkle_root": {
+      "ctime": 1668214076,
+      "hash": "06eedd857986a7eb1d6d5d70286b9607ed56f739341e6ec6569916b064a356d889b74e4aaa6c8ffe65cb94cb559f1b35a47ce5fbf7913eb17c2d365560cce42e",
+      "hash_meta": "dbc1d607de07e7c727aee89a3820d9c34b21cb8d704e79de9c9cde09fb4d485f",
+      "seqno": 23536527
+    },
+    "service": {
+      "entropy": "p3PZ/FEOkhGYen/v6GTOm/Qv",
+      "hostname": "docs.jimbrig.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.1.0"
+  },
+  "ctime": 1668214173,
+  "expire_in": 504576000,
+  "prev": "4ffece2717d959c5d68a1fe5ce0bd4bc29faa7f6034db62a77649dac8a9e1a8a",
+  "seqno": 23,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgqM4hwP3LJfNCS4J6Vew+rLpIfNQt+eAMNgg0u7GZAOUKp3BheWxvYWTESpcCF8QgT/7OJxfZWcXWih/lzgvUvCn6p/YDTbYqd2SdrIqeGorEIBb1d92hK8SKLwnYe7km74N6kwSj7seUEhUluxlpYb1UAgHCo3NpZ8RAO3WCm5QZHN8nMpZQ6EYGeeqBXG0l99xVxMUOhHn5tFYPxZnfWZn7IxnIN9B+0GAk5PEQeJilAhyb9FAic4pRDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIG0sQebxr9CSyc6XyjZpDcqS0XuJxNmxItCMhRYOYnRUo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jimbrig
+
+==================================================================
