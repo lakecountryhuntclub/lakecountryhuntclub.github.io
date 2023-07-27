@@ -1,4 +1,4 @@
-# lakecountryhuntclub.github.io
+# GitHub Pages Setup: <lakecountryhuntclub.github.io>
 
 > **Note** Root "docs" repository for https://docs.lakecountryhuntclub.com.
 
