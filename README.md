@@ -7,5 +7,5 @@ This setup allows other repository's utilizing GitHub Pages to automatically be 
 
 ## Badges
 
-[![Deploy to GitHub Pages](https://github.com/lakecountryhuntclub/lakecountryhuntclub.github.io/actions/workflows/gh-pages.yml/badge.svg)](https://github.com/lakecountryhuntclub/lakecountryhuntclub.github.io/actions/workflows/gh-pages.yml)
+[![Deploy to GitHub Pages](https://github.com/lakecountryhuntclub/lakecountryhuntclub.github.io/actions/workflows/gh-pages.yml/badge.svg?branch=main)](https://github.com/lakecountryhuntclub/lakecountryhuntclub.github.io/actions/workflows/gh-pages.yml)
 
