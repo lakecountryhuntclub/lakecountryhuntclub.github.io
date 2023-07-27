@@ -1,6 +1,6 @@
-# GitHub Pages Setup: <lakecountryhuntclub.github.io>
+# GitHub Pages Setup
 
-> **Note** Root "docs" repository for https://docs.lakecountryhuntclub.com.
+> **Note** Root "docs" repository for <https://docs.lakecountryhuntclub.com> which in turn is derived from <https://lakecountryhuntclub.github.io>.
 
 This setup allows other repository's utilizing GitHub Pages to automatically be assigned to the `docs.lakecountryhuntclub.com` sub-domain and utilize an automatic *route based* URL such as: <https://docs.lakecountryhuntclub.com/operations> for our [Operations Repository](https://github.com/lakecouuntryhuntclub/operations).
 
